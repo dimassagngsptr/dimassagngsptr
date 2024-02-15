@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dimassagngsptr" alt="dimassagngsptr" /></a> </p>
 
-- 🌱 I’m currently learning **Golang and Flutter**
+- 🌱 I’m currently learning **React Native and Flutter**
 
 - 📫 How to reach me **dimasageng58@gmail.com**
 

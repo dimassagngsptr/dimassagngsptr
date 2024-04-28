@@ -51,6 +51,4 @@
 
 <br clear="both">
 
-/*<img src="https://raw.githubusercontent.com/dimassagngsptr/dimassagngsptr/output/snake.svg" alt="Snake animation" />*/
-
 ###

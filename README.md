@@ -20,7 +20,7 @@
 <br>
 
 - 🔭 I’m currently working on Full Stack Developer
-- 🌱 I’m currently learning Android Developer using Kotlin
+- 🌱 I’m currently learning Java Springboot and Android Developer using Kotlin
 - 👯 I’m looking to collaborate on Web Developer
 - 🤔 I’m looking for help with Trainer
 - 😄 Pronouns: He/Him

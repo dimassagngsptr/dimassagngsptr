@@ -5,7 +5,7 @@
 ### 📈 my github stats
 <P><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dimassagngsptr&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="dimassagngsptr" /></P>
 
-<P>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimassagngsptr&show_icons=true&theme=tokyonight&locale=en" alt="dimassagngsptr" /></P>
+<P>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dimassagngsptr&show_icons=true&theme=darkhub&locale=en" alt="dimassagngsptr" /></P>
 
 <P><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dimassagngsptr&theme=dark" alt="dimassagngsptr" /></P>
 

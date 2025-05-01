@@ -23,7 +23,7 @@
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <br>
 
-- 🔭 I’m currently working on Full Stack Developer
+- 🔭 I’m currently working on Backend Engineer at PT Ihsan Solusi Informatika
 - 🌱 I’m currently learning Java Springboot and Android Developer using Kotlin
 - 👯 I’m looking to collaborate on Web Developer
 - 🤔 I’m looking for help with Trainer
